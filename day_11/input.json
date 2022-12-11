@@ -1,0 +1,66 @@
+{
+  "Monkey 0":{
+    "Items": [92, 73, 86, 83, 65, 51, 55, 93],
+    "Operator": "*",
+    "Operation": 5,
+    "Test": 11,
+    "true": 3,
+    "false": 4
+  },
+  "Monkey 1":{
+    "Items": [99, 67, 62, 61, 59, 98],
+    "Operator": "*",
+    "Operation": "old",
+    "Test": 2,
+    "true": 6,
+    "false": 7
+  },
+  "Monkey 2":{
+    "Items": [81, 89, 56, 61, 99],
+    "Operator": "*",
+    "Operation": 7,
+    "Test": 5,
+    "true": 1,
+    "false": 5
+  },
+  "Monkey 3":{
+    "Items": [97, 74, 68],
+    "Operator": "+",
+    "Operation": 1,
+    "Test": 17,
+    "true": 2,
+    "false": 5
+  },
+  "Monkey 4":{
+    "Items": [78, 73],
+    "Operator": "+",
+    "Operation": 3,
+    "Test": 19,
+    "true": 2,
+    "false": 3
+  },
+  "Monkey 5":{
+    "Items": [50],
+    "Operator": "+",
+    "Operation": 5,
+    "Test": 7,
+    "true": 1,
+    "false": 6
+  },
+  "Monkey 6":{
+    "Items": [95, 88, 53, 75],
+    "Operator": "+",
+    "Operation": 8,
+    "Test": 3,
+    "true": 0,
+    "false": 7
+  },
+  "Monkey 7":{
+    "Items": [50, 77, 98, 85, 94, 56, 89],
+    "Operator": "+",
+    "Operation": 2,
+    "Test": 13,
+    "true": 4,
+    "false": 0
+  }
+}
